@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: Forest of Chinese Art
-subtitle: ' [精柏閣](ses20160114@gmail.com)'
+subtitle: ' [精柏閣](https://suspicious-ramanujan-6c6945.netlify.app/about/#contact)'
 
 design:
   background:
