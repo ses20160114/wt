@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: Forest of Chinese Art
-subtitle: 'For [精柏閣](ses20160114@gmail.com/)'
+subtitle: ' [精柏閣](ses20160114@gmail.com)'
 
 design:
   background:
